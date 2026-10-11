@@ -1,0 +1,8 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Cache de données (retéléchargeable) — le verrou OOS et les rapports restent suivis
+data/*.parquet
